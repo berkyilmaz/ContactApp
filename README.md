@@ -1,11 +1,9 @@
-To use the Contacts app in the project directory, you can run:
+To use the Contacts app; 
+You need to run `yarn start` in the project directory.
 
-### `yarn start`
+yarn start runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view application in your browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-You can view the application from the browser. 
 From the Add section, you can add a contact name and number to the directory, 
 and you can even filter from it.
 
